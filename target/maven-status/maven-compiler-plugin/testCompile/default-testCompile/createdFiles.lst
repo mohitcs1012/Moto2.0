@@ -1,0 +1,15 @@
+pageObject\OnboardingPage.class
+testCase\TC004_CreateSalesChannel.class
+pageObject\MenuBarPage.class
+pageObject\channel\CreateSaleschannel.class
+testCase\TC001_Login.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+pageObject\navigationCard\organization\OrganizationCard.class
+pageObject\navigationCard\SettingPage.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class
+testCase\TC003_SettingIcon.class
+pageObject\BasePage.class
+testCase\TC002_DataDrivenLogin.class
+pageObject\HomePage.class

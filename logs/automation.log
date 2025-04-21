@@ -1,0 +1,58 @@
+2025-04-20 18:35:16 ERROR TC004_CreateSalesChannel:58 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fb7cb2fb1656ab7582c1f95d9963e236, actions {actions=[org.openqa.selenium.interactions.Sequence@2f61f937]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:11906}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:11906/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb7cb2fb1656ab7582c1f95d9963e236
+2025-04-20 18:35:16 INFO  TC004_CreateSalesChannel:61 - ******** Finished TC003_SettingIcon ********
+2025-04-20 18:36:53 ERROR TC004_CreateSalesChannel:58 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6c28e3f3bf05f40983fa959673b03f32, actions {actions=[org.openqa.selenium.interactions.Sequence@44de0113]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:11939}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:11939/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6c28e3f3bf05f40983fa959673b03f32
+2025-04-20 18:36:53 INFO  TC004_CreateSalesChannel:61 - ******** Finished TC003_SettingIcon ********
+2025-04-20 18:46:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\mohit\eclipse-workspace\Moto2.0\master.xml
+
+2025-04-20 18:48:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\mohit\eclipse-workspace\Moto2.0\master.xml
+
+2025-04-20 18:48:45 INFO  TC001_Login:16 - ******* TC001_Login Starts *********
+2025-04-20 18:48:58 ERROR TC001_Login:39 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [9871051f-8a3c-4663-888c-e1be1c814949, actions {actions=[org.openqa.selenium.interactions.Sequence@99407c2]}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 137.0.1, container:hostname: aca6dd45baae, moz:accessibilityChecks: false, moz:buildID: 20250407111027, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 193, moz:profile: /tmp/rust_mozprofileUF0iUc, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: aca6dd45baae, se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: 9871051f-8a3c-4663-888c-e1be1c814949
+2025-04-20 18:48:58 INFO  TC001_Login:42 - ******** Finished TC001_Login ********
+2025-04-20 18:51:31 INFO  TC001_Login:16 - ******* TC001_Login Starts *********
+2025-04-20 18:51:43 ERROR TC001_Login:39 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [afd0ee49-872b-45dc-83fa-53e106862caa, actions {actions=[org.openqa.selenium.interactions.Sequence@7a2e0858]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 137.0.2, moz:accessibilityChecks: false, moz:buildID: 20250414091429, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 30068, moz:profile: C:\Users\mohit\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: afd0ee49-872b-45dc-83fa-53e106862caa
+2025-04-20 18:51:43 INFO  TC001_Login:42 - ******** Finished TC001_Login ********
+2025-04-20 18:51:58 INFO  TC001_Login:16 - ******* TC001_Login Starts *********
+2025-04-20 18:52:12 ERROR TC001_Login:39 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3cc6ef5fcb86e7a464b2157e2015cd13, actions {actions=[org.openqa.selenium.interactions.Sequence@4f82663e]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:12131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:12131/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cc6ef5fcb86e7a464b2157e2015cd13
+2025-04-20 18:52:12 INFO  TC001_Login:42 - ******** Finished TC001_Login ********
+2025-04-20 19:07:42 INFO  TC001_Login:16 - ******* TC001_Login Starts *********
+2025-04-20 19:07:56 ERROR TC001_Login:39 - Test failed: java.lang.reflect.InvocationTargetException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [61e33dde3516b037d2d95c1584694f3d, actions {actions=[org.openqa.selenium.interactions.Sequence@4f82663e]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\mohit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7365/devtool..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 61e33dde3516b037d2d95c1584694f3d
+2025-04-20 19:07:56 INFO  TC001_Login:42 - ******** Finished TC001_Login ********

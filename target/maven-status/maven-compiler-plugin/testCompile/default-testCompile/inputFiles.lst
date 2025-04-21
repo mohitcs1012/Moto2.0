@@ -1,0 +1,15 @@
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\BasePage.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\channel\CreateSaleschannel.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\HomePage.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\MenuBarPage.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\navigationCard\organization\OrganizationCard.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\navigationCard\SettingPage.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\pageObject\OnboardingPage.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\testBase\BaseClass.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\testCase\TC001_Login.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\testCase\TC002_DataDrivenLogin.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\testCase\TC003_SettingIcon.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\testCase\TC004_CreateSalesChannel.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\utilities\DataProviders.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\utilities\ExcelUtility.java
+C:\Users\mohit\eclipse-workspace\Moto2.0\src\test\java\utilities\ExtentReportManager.java
